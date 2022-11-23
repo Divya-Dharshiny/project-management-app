@@ -1,5 +1,5 @@
 # Project-Management
-  * project-management is a simple react app, that helps in organising the progress of a app. the data is stored in json.
+  * project-management is a simple react app, that helps in organising the progress of an app. the data is stored in json.
   
 # Future for project-management
   * UI/UX will be improved.
